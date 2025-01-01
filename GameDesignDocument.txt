@@ -1,0 +1,63 @@
+Joshua Price
+12-28-2024
+Game Title: A Life for a Life / Sacrifice on Sulis
+(AI-Powered Conversation Campaign)
+Play Time (estimated 2hrs)
+________________________________________
+Synopsis
+Clint Westwood, a cunning outlaw on the alien planet of Sulis, is on the run after a heist gone wrong. Armed with his wits, a blaster, and a bit of luck, Clint must navigate treacherous landscapes, manipulate others through AI-driven conversations, and make a life-altering choice: his survival or the salvation of a young, lost companion.
+________________________________________
+Core Features
+AI Emotion Conversations: Dynamic dialogue influenced by player choices and AI-driven emotional reactions.
+Objectives: A constantly updating list to track Clint’s goals and progress.
+Blasters: Combat mechanics centered around Clint’s proficiency with pistols.
+________________________________________
+Sub-Features
+Speeders: Vehicles used for traversal and escape mechanics.
+Home Base Mechanics: A system for resting, managing inventory, and planning objectives.
+Cutscenes: Story-driven sequences to highlight major narrative beats.
+________________________________________
+Fine-Tuning Features
+Music & Sound: Atmospheric audio to enhance immersion, blending futuristic and western tones.
+Skybox + Skyline: Dynamic alien skies with vibrant colors to match the low-poly aesthetic.
+UI: Futuristic, intuitive design with visual nods to western and sci-fi themes.
+________________________________________
+Setting
+Alien Nature Landscapes: Vast, vibrant, and otherworldly environments with dangerous swamps, cliffs, and valleys.
+Outpost Town with Spaceport: A gritty, western-inspired settlement blending futuristic technology and old-west aesthetics.
+Futuristic-Western Fusion: A balance of rustic charm and advanced tech, from saloon-styled cantinas to neon-lit streets.
+________________________________________
+Characters
+Clint Westwood:
+A rogue with charm, quick reflexes, and a sharp mind for manipulation.
+Skilled in blaster combat and adept at reading people’s emotions.
+Struggles with morality, torn between self-preservation and compassion.
+The Boy:
+A young, kidnapped local with hidden connections to the political figure.
+Initially a burden but grows into Clint’s conscience, challenging his decisions.
+________________________________________
+Storyline / Plot
+Act 0 (Prologue): Clint’s heist goes wrong, forcing him into the outskirts of Sulis after unknowingly stealing from a powerful political figure.
+Act 1:
+Stranded in the outskirts with a wrecked speeder, Clint must find a way back to town.
+To cross the acid swamp, he needs to win or buy a functional speeder.
+During his journey, he encounters a kidnapped boy in a damaged speeder, reluctantly saving him.
+Act 2:
+Clint reaches the outpost town, seeking shelter and resources.
+He gathers intel on the heavily guarded spaceport, planning his escape.
+The boy pleads for help escaping the political figure’s grasp, forcing Clint to choose between his plans and aiding the boy.
+Act 3:
+Clint and the boy infiltrate the spaceport, relying on Clint’s manipulation, combat, and the speeder.
+The final twist: they obtain only one ticket off the planet, forcing Clint to decide whether to save himself or the boy.
+________________________________________
+Art Style
+Low-Poly Graphics: Simple yet stylized visuals with clean, vibrant colors.
+Vibrant Alien Landscapes: A mix of deserts, swamps, and neon-lit towns.
+Futuristic-Western UI: Sleek, holographic interface with rugged undertones.
+________________________________________
+Gameplay Pillars
+Choice-Driven Story: Meaningful decisions that shape Clint’s journey and relationships.
+Dynamic Conversations: AI-powered dialogue where emotional context changes outcomes.
+Exploration & Combat: Engaging environments and action-packed blaster mechanics.
+Moral Dilemmas: Clint’s decisions culminate in a final, emotional choice.
+
